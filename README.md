@@ -4,8 +4,6 @@ This project is an AI-powered assistant that helps users diagnose basic car issu
 
 👉 [Watch Project Demo on YouTube](https://youtu.be/SjHj4v6CdXc)
 
-[![Car Repair AI Assistant - Demo Video](https://img.youtube.com/vi/SjHj4v6CdXc/0.jpg)](https://youtu.be/SjHj4v6CdXc)
-
 ---
 
 ## Features
@@ -28,11 +26,6 @@ This project is an AI-powered assistant that helps users diagnose basic car issu
 
 ## Project Structure
 /app - Frontend pages (Chat, Signup) /backend - Cloud Functions (API logic) /components - UI components (Chat interface, Forms) /lib - Firebase setup
-
-yaml
-Copy
-Edit
-
 ---
 
 ## Future Improvements
