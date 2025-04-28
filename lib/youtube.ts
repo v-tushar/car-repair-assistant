@@ -1,6 +1,6 @@
 // src/lib/youtube.ts
 export async function fetchYouTubeVideos(query: string) {
-    const apiKey = "AIzaSyCM3JjrKz7-4-yx6w0byiq0fCNCr-NyffU"; // ✅ Your key
+    const apiKey = "YOUR_GEMINI_API_KEY; // ✅ Your key
     const maxResults = 2;
   
     const url = `https://www.googleapis.com/youtube/v3/search?key=${apiKey}&q=${encodeURIComponent(query)}&part=snippet&type=video&maxResults=${maxResults}`;
